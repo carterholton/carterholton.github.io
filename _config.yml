@@ -60,13 +60,20 @@ author:
  ## name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
+  location: Somerville, TX
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ceh760@msstate.edu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/carterholton/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/carterholton"
+    - label: "Resume"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/assets/Carter_resume.pdf"
   
 
 footer:
