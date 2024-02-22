@@ -62,8 +62,8 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
-      url: "https://carterholton.github.io/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/carterholton/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/carterholton"
